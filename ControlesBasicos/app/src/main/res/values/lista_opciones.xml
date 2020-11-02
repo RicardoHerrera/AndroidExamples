@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="strOptions">
+        <item>Yo lo recibo</item>
+        <item>Dejar en recepción</item>
+        <item>Alguien más lo recibirá</item>
+    </string-array>
+</resources>
